@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.app2.eyngel2",
+    "sha256_cert_fingerprints":
+    ["12:0B:8F:A6:10:61:54:22:45:77:2A:00:2D:C6:23:F3:17:09:3B:C6:97:86:B2:70:45:83:40:E5:AF:05:17:C7"]
+  }
+}]
